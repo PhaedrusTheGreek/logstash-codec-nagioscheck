@@ -1,2 +1,2 @@
-# logstash-nagios
+# logstash-codec-nagioscheck
 Nagios Check Parsing 
